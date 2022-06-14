@@ -4,7 +4,7 @@
            
 <p align="center">           
 <a href="https://forum.xda-developers.com/t/oos-eu-hd1913-oxygen-os-updates-extras-february-2022.4251837/" alt="XDA Thread"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
-<a href="" alt="Latest Release"><img src="https://img.shields.io/github/v/release/K3V1991/OnePlus-7T-Pro-OxygenOS-Updates-+-Extras-EU-HD1913?color=blueviolet&label=Latest%20Release"></a>
+<a href="" alt="Latest Release"><img src="https://img.shields.io/github/v/release/K3V1991/OnePlus-7T-Pro-OxygenOS-Updates-and-Extras-EU-HD1913?color=blueviolet&label=Latest%20Release"></a>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="Donate-PayPal"><img src="https://img.shields.io/badge/Donate-PayPal-blue"></a>
 <a href="https://github.com/K3V1991/Donate-Crypto/blob/main/README.md" alt="Donate-Crypto"><img src="https://img.shields.io/badge/Donate-Crypto-yellow"></a>
 </p>
