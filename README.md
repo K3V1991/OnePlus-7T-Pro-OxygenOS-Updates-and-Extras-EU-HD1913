@@ -38,4 +38,4 @@ System:
 
 ## Downloads:
 * ROM - [Google Drive](https://drive.google.com/file/d/12PpO27VxzH2L1WLS2GG-5pVSopZJqTUf/view?usp=sharing) MD5: D7A311B529929E609AF83129D3B97747
-* Download Kernel, Pre-rooted Kernel & Recovery from Releases Tab
+* Download Kernel, Pre-rooted Kernel (Magisk v24.3) & Recovery from Releases Tab
