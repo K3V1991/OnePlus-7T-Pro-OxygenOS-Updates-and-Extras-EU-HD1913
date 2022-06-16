@@ -23,8 +23,8 @@
 
 ## Changelog:
 System:
-* Updated Android Security Patch to 2022-04
-* General bug fixes to imorove system stability
+* Improved system stability
+* Updated Android security patch to 2022.05
 
 ## Installation & retain Root:
 01. Navigate to Settings > System > System Update
