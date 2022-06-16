@@ -13,13 +13,13 @@
 
 ## NFO:
 **Europe Version:**
-* Version Name: OnePlus7TProOxygen_14_2204061550
-* Version: 11.0.7.1.HD01BA (Oxygen OS 11.0.7.1)
+* Version Name: OnePlus7TProOxygen_14_2205292220
+* Version: 11.0.8.1.HD01BA (Oxygen OS 11.0.8.1)
 * Android Version: 11
 * API: 30
-* Build: HD1913_14_220406
-* Kernel: 4.14.190-perf+, Wed Apr 6
-* Security Patch: April 1, 2022
+* Build: HD1913_14_220529
+* Kernel: 4.14.190-perf+, Sun May 29
+* Security Patch: May 1, 2022
 
 ## Changelog:
 System:
