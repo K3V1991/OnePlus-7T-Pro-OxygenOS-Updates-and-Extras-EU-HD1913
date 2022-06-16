@@ -37,5 +37,5 @@ System:
 08. If you have Magisk Modules you want enabled again don't just hit enable, remove them and re-download them before enabling
 
 ## Downloads:
-* ROM - [Google Drive](https://drive.google.com/file/d/12PpO27VxzH2L1WLS2GG-5pVSopZJqTUf/view?usp=sharing) MD5: D7A311B529929E609AF83129D3B97747
+* ROM - [Google Drive](https://drive.google.com/file/d/1LB3I_fl2osCnWY1RcNZf7OkSRuFlCvtS/view?usp=sharing) MD5: D7A311B529929E609AF83129D3B97747
 * Download Kernel, Pre-rooted Kernel (Magisk v24.3) & Recovery from Releases Tab
