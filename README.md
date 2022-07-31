@@ -13,18 +13,18 @@
 
 ## NFO:
 **Europe Version:**
-* Version Name: OnePlus7TProOxygen_14_2205292220
-* Version: 11.0.8.1.HD01BA (Oxygen OS 11.0.8.1)
+* Version Name: OnePlus7TProOxygen_14_2206171522
+* Version: 11.0.9.1.HD01BA (Oxygen OS 11.0.9.1)
 * Android Version: 11
 * API: 30
-* Build: HD1913_14_220529
-* Kernel: 4.14.190-perf+, Sun May 29
-* Security Patch: May 1, 2022
+* Build: HD1913_14_220617
+* Kernel: 4.14.190-perf+, Fri Jun 17
+* Security Patch: June 1, 2022
 
 ## Changelog:
 System:
 * Improved system stability
-* Updated Android security patch to 2022.05
+* Updated Android security patch to 2022.06
 
 ## Installation & retain Root:
 01. Navigate to Settings > System > System Update
@@ -38,4 +38,4 @@ System:
 
 ## Downloads:
 * ROM - [Google Drive](https://drive.google.com/file/d/1LB3I_fl2osCnWY1RcNZf7OkSRuFlCvtS/view?usp=sharing) MD5: D7A311B529929E609AF83129D3B97747
-* Download Kernel, Pre-rooted Kernel (Magisk v24.3) & Recovery from Releases Tab
+* Download Kernel, Pre-rooted Kernel (Magisk v25.2) & Recovery from Releases Tab
