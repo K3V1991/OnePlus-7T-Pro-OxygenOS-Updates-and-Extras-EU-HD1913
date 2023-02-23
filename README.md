@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/Lr1xSgQ/OP7TPro.png" width="300"></a>
+<p align="center"><img src="https://github.com/K3V1991/OnePlus-7T-Pro-OxygenOS-Updates-and-Extras-EU-HD1913/blob/main/OP7TPro.png" width="300"></a>
 <h1 align="center"><b>OxygenOS Updates for the OnePlus 7T Pro (EU, HD1913) + Extras</b></h1>
 <br />         
            
