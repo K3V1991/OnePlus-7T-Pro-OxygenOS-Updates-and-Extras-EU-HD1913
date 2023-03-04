@@ -29,12 +29,12 @@ System:
 * Updated Android security patch to 2022.06
 
 ## Installation & retain Root:
-01. Navigate to Settings > System > System Update
-02. Hit Settings and then Local Update
+01. Navigate to ```Settings``` > ```System``` > ```System Update```
+02. Hit ```Settings``` and then ```Local Update```
 03. Select the downloaded Zip File (On the Root of your Internal Memory)
-04. Wait for it to install and ensure you "DO NOT REBOOT" at the End
-05. Go to Magisk Manager and "disable/delete" any Modules you have installed
-06. In Magisk Manager select "Install" then "Install to Inactive Slot (After OTA)"
+04. Wait for it to install and ensure you ```DO NOT REBOOT``` at the End
+05. Go to Magisk Manager and ```disable/delete``` any Modules you have installed
+06. In Magisk Manager select ```Install``` then ```Install to Inactive Slot (After OTA)```
 07. Reboot and you should be on the latest Firmware with Root retained
 08. If you have Magisk Modules you want enabled again don't just hit enable, remove them and re-download them before enabling
 
